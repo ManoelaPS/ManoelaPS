@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Olá, eu sou Manoela!
 
-<!--
-**ManoelaPS/ManoelaPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e estou em constante busca por novos conhecimentos.
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManoelaPS&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
 
-Here are some ideas to get you started:
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelaPS&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  
