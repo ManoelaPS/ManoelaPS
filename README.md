@@ -1,14 +1,18 @@
 ## 👋 Olá, eu sou Manoela!
 
 Sou estudante de **Engenharia de Software** e estou em constante busca por novos conhecimentos.
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ManoelaPS&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelaPS&layout=compact&langs_count=16&theme=dracula"/>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=#6f42c1&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+</div>
+
+###
+###
