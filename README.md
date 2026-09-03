@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Manoela!
 
-Sou estudante de **Engenharia de Software** e estou em constante busca por novos conhecimentos.
+Desenvolvedora Java Júnior | Estudante de Engenharia de Software na UCB
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
