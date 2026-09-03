@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Manoela!
 
-Desenvolvedora Java Júnior | Estudante de Engenharia de Software na UCB
+Estudante de Engenharia de Software UCB | Em Busca de Estágio em TI 
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
